@@ -1,0 +1,7 @@
+El uso responsable de la información en internet, la participación ciudadana y el trabajo con Git comparten el principio fundamental de la responsabilidad compartida sobre el contenido, 
+esto quiere decir que cuando un sujeto verifica los datos antes de compartirlos, ejerce una participación digital informada y evita la propagación de noticias falsas que pueden ocasionar un daño en la sociedad. 
+
+De manera muy similar, en el desarrollo técnico, herramientas como Git organizan el trabajo colaborativo para saber exactamente quién, cuándo y por qué modificó un archivo o una línea de código. 
+Así como un historial de Git transparente evita errores y conflictos en un software, un flujo de información honesto en la red fortalece los lazos ciudadanos. 
+
+En conclusión, tanto en la sociedad como en el software, la transparencia y el compromiso individual son claves para construir proyectos colectivos estables, confiables y con bases 

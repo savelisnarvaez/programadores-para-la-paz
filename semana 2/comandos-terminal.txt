@@ -1,0 +1,10 @@
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+cd programadores-para-la-paz
+git status
+git add .
+git commit -m "agrego archivos semana 2"
+git push
